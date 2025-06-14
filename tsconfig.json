@@ -1,7 +1,6 @@
 /* To learn more about Typescript configuration file: https://www.typescriptlang.org/docs/handbook/tsconfig-json.html. */
 /* To learn more about Angular compiler options: https://angular.dev/reference/configs/angular-compiler-options. */
 {
-//  "extends": "./.wxt/tsconfig.json",
   "compileOnSave": false,
   "compilerOptions": {
     "strict": true,
@@ -23,9 +22,5 @@
     "typeCheckHostBindings": true,
     "strictTemplates": true
   },
-  "files": [],
-  "exclude": [
-    "entrypoints/background.ts",
-    "entrypoints/content.ts"
-  ]
+  "files": []
 }
