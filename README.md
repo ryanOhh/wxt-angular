@@ -1,4 +1,3 @@
-# WxtAngular
+# Wxt + Angular
 
-wxt for angular
-
+This template should help get you started developing with Angular in WXT.
